@@ -1,8 +1,8 @@
 ---
 title: "Developing Data Products"
 subtitle: "R Markdown and Leaflet Assignment"
-author: "Brian Gulbis"
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
+author: "Rishi Kumar"
+date: '2018-09-22'
 output: html_document
 ---
 
